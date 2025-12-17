@@ -6,15 +6,6 @@
 > Y lo más importante: Todo esto es un archivo de texto formateado en Markdown en caso de descargaar el archivo origen,
 > por favor, haga uso de las extensiones pertinentes para leerlo aedcuadmente.
 
-
-## Datos sobre el Pj y User
-
-### User
-
-#### Nombre: Alec
-#### Edad: ¿Y en verdad de que os importa esto?
-#### Sexo? No conozco eso, se encuentra junto el mito del clitoris?
-
 ### Personaje
 
 ![JiyuUzumaki_png](JiyuUzumaki.png)
@@ -52,7 +43,7 @@
 ------------------------
 - **ESTADO:**
 
-    Vivo, sin entrada al libro Bingo
+    Vivo, sin entrada al `libro Bingo`[^1]
 
     Edad: 14 años
 
@@ -77,11 +68,11 @@
 ------------------------
 - **HABILIDAD ÚNICA:**
 
-    `Sensor`: de alta categoría, sus altas reservas de `chakra` incluso para su edad y clan lo vuelven uno de los mejores en este campo.
+    `Sensor`: de alta categoría, sus altas reservas de `chakra`[^2] incluso para su edad y clan lo vuelven uno de los mejores en este campo.
 
-    `Erudito Fuin`: altos conocimientos de Fuinjutsu, estando en una categoría 6 de su clan, si bien para otras aldeas sería mucho más alto lo mantiene en un 5. Un shinobi dedica su vida al engaño.
+    `Erudito Fuin`: altos conocimientos de `Fuinjutsu`[^3], estando en la primera categoría por un castigo. Un shinobi dedica su vida al engaño y es por ello que solo muestra conocer la teoría inicial.
 
-    `Combatiente`: nato a estilos de combate a mano, sin embargo mantiene la tradición de clan y lucha con un nivel decente en `kenjutsu`.
+    `Combatiente`: nato a estilos de combate a mano, sin embargo mantiene la tradición de clan y lucha con un nivel decente en `Kenjutsu`[^4].
 
 ------------------------
 - **CLASIFICACIÓN/RANGO:**
@@ -91,9 +82,9 @@
 ------------------------
 - **AFILIACIÓN:**
 
-    País de las Olas -> `Uzugakure no Sato` (Aldea escondida entre los Remolinos)
+    País de las Olas -> `Uzugakure no Sato`[^5] (Aldea escondida entre los Remolinos)
 
-    País del Fuego -> `Konohagakure no Sato` (Aldea escondida entre las Hojas)
+    País del Fuego -> `Konohagakure no Sato` [^6](Aldea escondida entre las Hojas)
 
 ------------------------
 - **EQUIPO:**
@@ -110,9 +101,9 @@
 ------------------------
 - **FAMILIA**
 
-    Tía abuela: Mito Uzumaki
+    **Tía abuela**: Mito Uzumaki
 
-    Padre:
+    **Padre**:
     - Transliteración del nombre: Takumi Uzumaki 
     - Nombre Japonés:  
         ```
@@ -120,7 +111,7 @@
         ```
         `巧` - "artesano", "maestro habilidoso", "destreza"
 
-    Madre:
+    **Madre**:
     - Transliteración del nombre: Kasumi Uzumaki 
     - Nombre Japonés:  
         ```
@@ -128,7 +119,7 @@
         ```
         `霞` (kasumi) - "niebla", "bruma"
 
-    Hermana: 
+    **Hermana**: 
     - Transliteración del nombre: Akari  Uzumaki 
     - Nombre Japonés: 
         ```
@@ -143,21 +134,21 @@
 
     Apto para `chakra` natural: NS/NC
 
-    - Detectada: 
-        Fuuton - Muy Alta (no tiene ni zorra)
+    - Primera: 
+        Fuuton[^7] - Muy Alta (no tiene ni zorra)
 
-    - No Detectada:
-        Suiton - Decente
+    - Segunda (No Detectada):
+        Suiton[^8] - Decente
 
-    Resto de naturalezas podrían a llegar a entrenarse paa reducir el gasto de `chakra` en caso de necesitar hacer uso de jutsus de otros estilos.
+    Resto de naturalezas podrían a llegar a entrenarse paa reducir el gasto de `chakra` en caso de necesitar hacer uso de jutsus de otros elementos.
 
 ------------------------
 - **TÉCNICAS**
 
     Academia:
-        Bunshin no Jutsu - A extensas de su cantidad de `chakra` no podría ejecutarlo pero debido a su dominio en el control de este mismo logra realizarlos-
-        Control básico de `chakra` aprendido en la academia:
-        Papel en la frente
+        - Bunshin no Jutsu - A extensas de su cantidad de `chakra` no podría ejecutarlo pero debido a su dominio en el control de este mismo logra realizarlos-
+        - Control básico de `chakra` aprendido en la academia:
+            - Papel en la frente
 
 
     Control básico de `chakra` aprendido en Clan:
@@ -165,7 +156,7 @@
         Caminar en el agua
         Tinta de `chakra`
 
-    Sellos de hasta nivel 6 Uzumaki(El apartado espacio se empieza a dar en el nivel 7 a finales del tomo)
+    Sellos de primer nivel Uzumaki(El apartado espacio se empieza a dar en el nivel 7 a finales del tomo)
 
     Sello ***propio accidental***: Fuin no Myau - Técnica que se activa cuando agrega `chakra` al sello localizado en **** [censurado para que no lo traten de borrar, no porque este en su "ya sabemos donde"] con el cual afecta tanto a aliados como enemigos haciendo que una proyeccion directa de una voz cualquiera registrada en su memoria reproduzca: myaumyaumyaumyaumyaumyaumyaumyaumyaumyaumyaumyaumyaumyaumyau. Hasta que deje de bombear `chakra`. La cantidad del `chakra` aumenta por personas alrededor siendo detectable cuando comienzan a haber 4 personas o más. Siendo menos personas sirve cruel y vilmente como una broma de muy mal gusto al no detectarse muy fácilmente. (Estoy Considerando colocar un radio de efecto usando como centro la ubicación del sello y no a Ji en si mismo.)
 
