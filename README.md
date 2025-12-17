@@ -36,7 +36,7 @@
 
 ## Personaje
 
-![JiyuUzumaki_png](/JiyuUzumaki.png)
+![JiyuUzumaki_png](/assets/images/JiyuUzumaki.png)
 
 ### **TRANSLITERACIÓN DEL NOMBRE:**
 
