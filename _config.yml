@@ -1,23 +1,19 @@
-# site settings
-title: Amuzik
-subtitle: Escucha tu música favorita, acompañado de tus amigos.
-email: hecmaror04@gmail.com
-description: Proyecto de fin de ciclo de grado superior de Desarrollo de Aplicaciones Multiplataforma.
-keywords: [amuzik, música, amigos, proyecto, ciclo, grado, superior, DAM, desarrollo, aplicaciones, multiplataforma]
-baseurl: "/amuzik" # the subpath of your site, e.g. /blog
-url: "https://hmarort.github.io"# the base hostname & protocol for your site
-author: "Héctor Martín Ortega"
-github_username:  hmarort
-street_address: Calle de la Tórtola, nº 8
-city: Cádiz
-state: El Puerto de Santa María
-zip_code: 11500
-country: España
-phone: (+34) 640 53 21 85
+# Información del Sitio
+title: Jiyū Uzumaki
+subtitle: Datos del Personaje OC para Rol Escrito
+email: tu-email@ejemplo.com
+description: Repositorio dedicado a Jiyū Uzumaki, un Genin del Clan Uzumaki con habilidades sensoriales excepcionales y maestría en Fuinjutsu.
+baseurl: "/jiyu" # el nombre de tu repositorio
+url: "https://hmarort.github.io" # tu URL de GitHub Pages
 
-# homepage tiles
-tiles-source: pages
-tiles-count: 6
+# Información Personal/Autor
+author: hmarort
+street_address: 
+city: El Puerto de Santa María
+state: Andalucía
+zip_code: 
+country: España
+phone: 
 
 socials:
   GitHub: https://github.com/hmarort
