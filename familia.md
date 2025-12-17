@@ -6,20 +6,30 @@ image: assets/images/pic03.jpg
 nav-menu: true
 ---
 
-## Clan Uzumaki
+### **FAMILIA**
 
-El Clan Uzumaki es conocido por...
+**Tía abuela**: Mito Uzumaki
 
-## Árbol Familiar
+**Padre**:
+- Transliteración del nombre: Takumi Uzumaki 
+- Nombre Japonés:  
+    ```
+    巧 渦巻き
+    ```
+    `巧` - "artesano", "maestro habilidoso", "destreza"
 
-### Tía Abuela
-- **Mito Uzumaki**: Esposa del Primer Hokage y jinchūriki del Kyūbi
+**Madre**:
+- Transliteración del nombre: Kasumi Uzumaki 
+- Nombre Japonés:  
+    ```
+    霞 渦巻き
+    ```
+    `霞` (kasumi) - "niebla", "bruma"
 
-### Padre
-- **Takumi Uzumaki** (巧 渦巻き): "Artesano, maestro habilidoso"
-
-### Madre
-- **Kasumi Uzumaki** (霞 渦巻き): "Niebla, bruma"
-
-### Hermana
-- **Akari Uzumaki** (灯 渦巻き): "Luz, lámpara"
+**Hermana**: 
+- Transliteración del nombre: Akari Uzumaki 
+- Nombre Japonés: 
+    ```
+    灯 渦巻き
+    ```
+    `灯` - "luz", "lámpara", "iluminación"

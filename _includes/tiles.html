@@ -1,18 +1,21 @@
-{% if 'posts' == site.tiles-source %}
-    {% assign tiles = site.posts %}
-{% elsif 'pages' == site.tiles-source %}
-    {% assign tiles = site.html_pages | where_exp: "item", "item.show_tile != false" %}
-{% endif %}
-<section id="one" class="tiles">
-  {% for tile in tiles limit:site.tiles-count %}
-  <article>
-    <span class="image">
-      <img src="{{ tile.image }}" alt="{{ tile.title }}" />
-    </span>
-    <header class="major">
-      <h3><a href="{{ tile.url  | relative_url }}" class="link">{{ tile.title }}</a></h3>
-      <p>{{ tile.description }}</p>
-    </header>
-  </article>
-  {% endfor %}
+<section id="two" class="tiles">
+    <article>
+        <span class="image">
+            <img src="assets/images/pic01.jpg" alt="" />
+        </span>
+        <header class="major">
+            <h3><a href="biografia.html" class="link">Biografía</a></h3>
+            <p>La historia de Jiyū desde su nacimiento en Uzushiogakure</p>
+        </header>
+    </article>
+    <article>
+        <span class="image">
+            <img src="assets/images/pic02.jpg" alt="" />
+        </span>
+        <header class="major">
+            <h3><a href="habilidades.html" class="link">Habilidades</a></h3>
+            <p>Técnicas sensoriales, Fuinjutsu y habilidades de combate</p>
+        </header>
+    </article>
+    <!-- Agregar más tiles para otras secciones -->
 </section>

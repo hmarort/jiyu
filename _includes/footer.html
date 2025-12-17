@@ -1,34 +1,23 @@
-
 <!-- Footer -->
-	<footer id="footer">
-		<div class="inner">
-			<ul class="icons">
-				{% for key_value in site.socials %}
-					{% if key_value[1] %}
-						<li>
-							<a href="{{ key_value[1] }}" class="icon alt fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
-								<span class="label">{{ key_value[0] }}</span>
-							</a>
-						</li>
-					{% endif %}
-				{% endfor %}
-			</ul>
-			<ul class="copyright">
-				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
-				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
-				<li>Jekyll integration: <a href="https://github.com/andrewbanchich" target="_blank">Andrew Banchich</a></li>
-
-			</ul>
-		</div>
-	</footer>
-
-</div>
-
-<!-- Scripts -->
-	<script src="{{ "assets/js/jquery.min.js" | absolute_url }}"></script>
-	<script src="{{ "assets/js/jquery.scrolly.min.js" | absolute_url }}"></script>
-	<script src="{{ "assets/js/jquery.scrollex.min.js" | absolute_url }}"></script>
-	<script src="{{ "assets/js/skel.min.js" | absolute_url }}"></script>
-	<script src="{{ "assets/js/util.js" | absolute_url }}"></script>
-	<!--[if lte IE 8]><script src="{{ "assets/js/ie/respond.min.js" | absolute_url }}"></script><![endif]-->
-	<script src="{{ "assets/js/main.js" | absolute_url }}"></script>
+<footer id="footer">
+    <div class="inner">
+        <ul class="icons">
+            {% if site.twitter_url %}
+            <li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+            {% endif %}
+            {% if site.github_url %}
+            <li><a href="{{ site.github_url }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+            {% endif %}
+            {% if site.discord_url %}
+            <li><a href="{{ site.discord_url }}" class="icon alt fa-discord" target="_blank"><span class="label">Discord</span></a></li>
+            {% endif %}
+        </ul>
+        <ul class="copyright">
+            <li>&copy; {{ site.title }} - {{ "now" | date: "%Y" }}</li>
+            <li>Personaje OC para Rol Escrito</li>
+            <li>Universo: Naruto/Naruto Shippuden</li>
+            <li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
+            <li>Jekyll Theme: <a href="https://github.com/andrewbanchich/forty-jekyll-theme" target="_blank">Forty</a></li>
+        </ul>
+    </div>
+</footer>

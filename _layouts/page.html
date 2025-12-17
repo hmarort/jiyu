@@ -1,18 +1,40 @@
-<!DOCTYPE html>
-<!--
-	Forty by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
+---
+layout: default
+---
 
-{% include head.html %}
+<!-- Main -->
+<div id="main" class="alt">
 
-<body>
-    <script type="text/javascript">document.body.classList.add("is-loading");</script>
+    <!-- One -->
+    <section id="one">
+        <div class="inner">
+            <header class="major">
+                <h1>{{ page.title }}</h1>
+            </header>
+            {% if page.image %}
+            <span class="image main"><img src="{{ page.image | relative_url }}" alt="{{ page.title }}" /></span>
+            {% endif %}
+            
+            <!-- Contenido de la página -->
+            {{ content }}
+            
+            <!-- Navegación entre páginas (opcional) -->
+            {% if page.show_navigation %}
+            <hr />
+            <div class="box">
+                <h3>Navegación</h3>
+                <ul class="actions">
+                    {% if page.prev_page %}
+                    <li><a href="{{ page.prev_page | relative_url }}" class="button">← Anterior</a></li>
+                    {% endif %}
+                    <li><a href="{{ "" | absolute_url }}/" class="button special">Inicio</a></li>
+                    {% if page.next_page %}
+                    <li><a href="{{ page.next_page | relative_url }}" class="button">Siguiente →</a></li>
+                    {% endif %}
+                </ul>
+            </div>
+            {% endif %}
+        </div>
+    </section>
 
-    {% include header.html %} {{ content }} {% include footer.html %}
-
-</body>
-
-</html>
+</div>

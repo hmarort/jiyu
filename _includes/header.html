@@ -1,26 +1,31 @@
-<!-- Wrapper -->
-<div id="wrapper">
-
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
-	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
-	<nav>
-		<a href="#menu">Menu</a>
-	</nav>
+    <a href="{{ "" | absolute_url }}/" class="logo">
+        <strong>{{ site.title }}</strong> 
+        <span>{{ site.subtitle }}</span>
+    </a>
+    <nav>
+        <a href="#menu">Menú</a>
+    </nav>
 </header>
 
 <!-- Menu -->
 <nav id="menu">
-	<ul class="links">
-        {% for page in site.pages %}
-		    {% if page.layout == "home" %}
-		        <li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
-	    	{% endif %}
-		{% endfor %}
-		{% for page in site.html_pages %}
-		    {% if page.layout != "home" and page.nav-menu == true %}
-		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-		    {% endif %}
-		{% endfor %}
-	</ul>
+    <ul class="links">
+        <li><a href="{{ "" | absolute_url }}/">Inicio</a></li>
+        <li><a href="{{ "" | absolute_url }}/biografia.html">Biografía</a></li>
+        <li><a href="{{ "" | absolute_url }}/habilidades.html">Habilidades</a></li>
+        <li><a href="{{ "" | absolute_url }}/familia.html">Familia y Clan</a></li>
+        <li><a href="{{ "" | absolute_url }}/tecnicas.html">Técnicas</a></li>
+        <li><a href="{{ "" | absolute_url }}/glosario.html">Glosario</a></li>
+        {% if site.show_blog %}
+        <li><a href="{{ "" | absolute_url }}/all_posts.html">Blog/Actualizaciones</a></li>
+        {% endif %}
+    </ul>
+    <!-- Redes sociales si las tienes -->
+    {% if site.github_url %}
+    <ul class="actions stacked">
+        <li><a href="{{ site.github_url }}" class="button primary fit">GitHub</a></li>
+    </ul>
+    {% endif %}
 </nav>

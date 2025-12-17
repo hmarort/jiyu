@@ -1,0 +1,63 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>{{ site.title }} - {{ page.title }}</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="{{ "assets/css/main.css" | relative_url }}" />
+    <noscript><link rel="stylesheet" href="{{ "assets/css/noscript.css" | relative_url }}" /></noscript>
+    
+    <!-- Meta tags personalizados para Jiyū -->
+    <meta name="description" content="Jiyū Uzumaki - Genin del Clan Uzumaki especializado en Fuinjutsu y técnicas sensoriales" />
+    <meta name="keywords" content="Jiyū Uzumaki, Naruto OC, Rol escrito, Fuinjutsu, Clan Uzumaki" />
+</head>
+<body class="is-preload">
+
+    <!-- Wrapper -->
+    <div id="wrapper">
+
+        <!-- Header -->
+        {% include header.html %}
+
+        <!-- Banner (solo en home) -->
+        {% if page.layout == "home" %}
+        <section id="banner" class="major">
+            <div class="inner">
+                <header class="major">
+                    <h1>{{ page.landing-title }}</h1>
+                </header>
+                <div class="content">
+                    <p style="text-transform: uppercase;">{{ site.description }}</p>
+                    <p>Genin del Clan Uzumaki<br />
+                    Especialista en Fuinjutsu y Técnicas Sensoriales</p>
+                </div>
+            </div>
+        </section>
+        {% endif %}
+
+        <!-- Main -->
+        <div id="main">
+            {{ content }}
+        </div>
+
+        <!-- Contact (opcional - solo si quieres formulario de contacto) -->
+        {% if site.contact_form %}
+        {% include contact.html %}
+        {% endif %}
+
+        <!-- Footer -->
+        {% include footer.html %}
+
+    </div>
+
+    <!-- Scripts -->
+    <script src="{{ "assets/js/jquery.min.js" | relative_url }}"></script>
+    <script src="{{ "assets/js/jquery.scrolly.min.js" | relative_url }}"></script>
+    <script src="{{ "assets/js/jquery.scrollex.min.js" | relative_url }}"></script>
+    <script src="{{ "assets/js/browser.min.js" | relative_url }}"></script>
+    <script src="{{ "assets/js/breakpoints.min.js" | relative_url }}"></script>
+    <script src="{{ "assets/js/util.js" | relative_url }}"></script>
+    <script src="{{ "assets/js/main.js" | relative_url }}"></script>
+
+</body>
+</html>
