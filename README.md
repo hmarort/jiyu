@@ -6,16 +6,16 @@
 > Y lo más importante: Todo esto es un archivo de texto formateado en Markdown en caso de descargaar el archivo origen,
 > por favor, haga uso de las extensiones pertinentes para leerlo aedcuadmente.
 
-### Personaje
+## Personaje
 
-![JiyuUzumaki_png](JiyuUzumaki.png)
+![JiyuUzumaki_png](/JiyuUzumaki.png)
 
-**TRANSLITERACIÓN DEL NOMBRE:**
+### **TRANSLITERACIÓN DEL NOMBRE:**
 
 Jiyū uzumaki
 
 ------------------------
-**NOMBRE JAPONES:**
+### **NOMBRE JAPONES:**
 ```
 自由 渦巻き
 ```
@@ -23,50 +23,50 @@ Jiyū uzumaki
 Donde `自由` significa hacer lo que uno quiere. Siendo el significado de `自` "uno mismo" y `由` significa "causa" o "razón"
 
 ------------------------
-**APODOS:**
+### **APODOS:**
 
 - Ji: para abreviar su nombre
 
 sin otros apodos conocidos hasta el momento
 
 ------------------------
-**NACIMIENTO:**
+### **NACIMIENTO:**
 
 20/07 -> 20 de Julio
 
 Signo: Cáncer
 
 ------------------------
-**GENERO:**
+### **GENERO:**
 
 Masculino/Hombre
 ------------------------
-**ESTADO:**
+### **ESTADO:**
 
 Vivo, sin entrada al `libro Bingo`[^1]
 
 Edad: 14 años
 
 ------------------------
-**ALTURA:**
+### **ALTURA:**
 
 165 cm
 ------------------------
-**PESO:**
+### **PESO:**
 
 60 kg
 ------------------------
-**TIPO DE DE GRUPO SANGUINEO:**
+### **TIPO DE DE GRUPO SANGUINEO:**
 
 O+
 
 ------------------------
-**KEKKEI GENKAI:**
+### **KEKKEI GENKAI:**
 
 -No conocidos-
 
 ------------------------
-**HABILIDAD ÚNICA:**
+### **HABILIDAD ÚNICA:**
 
 `Sensor`: de alta categoría, sus altas reservas de `chakra`[^2] incluso para su edad y clan lo vuelven uno de los mejores en este campo.
 
@@ -75,31 +75,31 @@ O+
 `Combatiente`: nato a estilos de combate a mano, sin embargo mantiene la tradición de clan y lucha con un nivel decente en `Kenjutsu`[^4].
 
 ------------------------
-**CLASIFICACIÓN/RANGO:**
+### **CLASIFICACIÓN/RANGO:**
 
 Genin
 
 ------------------------
-**AFILIACIÓN:**
+### **AFILIACIÓN:**
 
 País de las Olas -> `Uzugakure no Sato`[^5] (Aldea escondida entre los Remolinos)
 
 País del Fuego -> `Konohagakure no Sato` [^6](Aldea escondida entre las Hojas)
 
 ------------------------
-**EQUIPO:**
+### **EQUIPO:**
 
 no determinado
 ------------------------
-**COMPAÑERO:**
+### **COMPAÑERO:**
 
 por confirmar
 ------------------------
-**CLAN:**
+### **CLAN:**
 
 Uzumaki
 ------------------------
-**FAMILIA**
+### **FAMILIA**
 
 **Tía abuela**: Mito Uzumaki
 
@@ -128,17 +128,17 @@ Uzumaki
     `灯` - "luz", "lámpara", "iluminación"
 
 ------------------------
-**NATURALEZA DEL CHAKRA**
+### **NATURALEZA DEL CHAKRA**
 
 Afinidad pura del cuerpo y el espíritu: Yan
 
-Apto para `chakra` natural: NS/NC
+Apto para `chakra` natural[^7]: NS/NC
 
 - Primera: 
-    Fuuton[^7] - Muy Alta (no tiene ni zorra)
+    Fuuton[^8] - Muy Alta (no tiene ni zorra)
 
 - Segunda (No Detectada):
-    Suiton[^8] - Decente
+    Suiton[^9] - Decente
 
 Resto de naturalezas podrían a llegar a entrenarse paa reducir el gasto de `chakra` en caso de necesitar hacer uso de jutsus de otros elementos.
 
@@ -166,13 +166,13 @@ Resto de naturalezas podrían a llegar a entrenarse paa reducir el gasto de `cha
 - Invocación Familiar: Deseado pero no realizado u obtenido todavia. Como tal quiere un animal que le sirva de compañero, pero no es consciente que existen clanes de animales especializados en el `Ninshū`
 
 ------------------------
-**HERRAMIENTAS**
+### **HERRAMIENTAS**
     
-    - Kit de Fuin propio: Focas, pincel de `chakra`, tinta...
-    - Pulseras con sellos de almacenamiento: kunais, shurikens, sellos bomba...
-    - Katana de acero.
+- Kit de Fuin propio: Focas, pincel de `chakra`, tinta...
+- Pulseras con sellos de almacenamiento: kunais, shurikens, sellos bomba...
+- Katana de acero.
 ------------------------
-#### **Historia**
+### **Historia**
 
 Jiyū nació el 20 de julio en Uzushiogakure, en el seno de una familia Uzumaki de linaje respetable, su tía abuela no era otra que Mito Uzumaki, esposa del Primer Hokage y actual jinchūriki del Kyūbi en Konohagakure (el sacrificio para juntar Konoha y Uzu). Su padre, un erudito del Fuinjutsu de nivel medio-alto, y su madre, una kunoichi especializada en detección sensorial, le transmitieron desde temprana edad las tradiciones del clan.
 
@@ -206,3 +206,6 @@ Siendo parte de este programa despliega rumbo a la aldea oculta entre las hojas,
 Él y los otros chicos fueron alojados en una de los edificios departamentales del distrito Uzumaki-Senju. Todos comenzaron posteriormente sus años en la academia, siendo el advenimiento de su segundo obstáculo para el logro de graduarse el Bunshin No Jutsu. Obstaculo creado por su obstinación por intentar lograr el bunshin haciendo uso de su chakra sin uso de control alguno por sus narices.
 
 No fue hasta que comenzó a aplicar el control que aplicaba para su efectividad sensorial, que comenzó a dar resultados. Así logrando graduarse, y estando a la espera de recibir a su instructor y compañeros.
+
+---
+### **Pie de Página**
