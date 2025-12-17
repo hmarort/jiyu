@@ -1,4 +1,10 @@
-# Naruto What If 
+> [!IMPORTANT]
+>  Antes de seguir leyendo por favor tenga en cuenta los siguientes datos:
+> - Utilizaremos hipervinculos para un mejor accesibilidad a los apartados de información
+> - Se mostrará al final un pie de página con la definición de los conceptos esperados o previsibles.
+> Y lo más importante: Todo esto es un archivo de texto formateado en Markdown en caso de descargaar el archivo origen,
+> por favor, haga uso de las extensiones pertinentes para leerlo aedcuadmente.
+
 
 ## Datos sobre el Pj y User
 
