@@ -10,163 +10,163 @@
 
 ![JiyuUzumaki_png](JiyuUzumaki.png)
 
-- **TRANSLITERACIÓN DEL NOMBRE:**
+**TRANSLITERACIÓN DEL NOMBRE:**
 
-    Jiyū uzumaki
+Jiyū uzumaki
 
 ------------------------
-- **NOMBRE JAPONES:**
+**NOMBRE JAPONES:**
+```
+自由 渦巻き
+```
+
+Donde `自由` significa hacer lo que uno quiere. Siendo el significado de `自` "uno mismo" y `由` significa "causa" o "razón"
+
+------------------------
+**APODOS:**
+
+- Ji: para abreviar su nombre
+
+sin otros apodos conocidos hasta el momento
+
+------------------------
+**NACIMIENTO:**
+
+20/07 -> 20 de Julio
+
+Signo: Cáncer
+
+------------------------
+**GENERO:**
+
+Masculino/Hombre
+------------------------
+**ESTADO:**
+
+Vivo, sin entrada al `libro Bingo`[^1]
+
+Edad: 14 años
+
+------------------------
+**ALTURA:**
+
+165 cm
+------------------------
+**PESO:**
+
+60 kg
+------------------------
+**TIPO DE DE GRUPO SANGUINEO:**
+
+O+
+
+------------------------
+**KEKKEI GENKAI:**
+
+-No conocidos-
+
+------------------------
+**HABILIDAD ÚNICA:**
+
+`Sensor`: de alta categoría, sus altas reservas de `chakra`[^2] incluso para su edad y clan lo vuelven uno de los mejores en este campo.
+
+`Erudito Fuin`: altos conocimientos de `Fuinjutsu`[^3], estando en la primera categoría por un castigo. Un shinobi dedica su vida al engaño y es por ello que solo muestra conocer la teoría inicial.
+
+`Combatiente`: nato a estilos de combate a mano, sin embargo mantiene la tradición de clan y lucha con un nivel decente en `Kenjutsu`[^4].
+
+------------------------
+**CLASIFICACIÓN/RANGO:**
+
+Genin
+
+------------------------
+**AFILIACIÓN:**
+
+País de las Olas -> `Uzugakure no Sato`[^5] (Aldea escondida entre los Remolinos)
+
+País del Fuego -> `Konohagakure no Sato` [^6](Aldea escondida entre las Hojas)
+
+------------------------
+**EQUIPO:**
+
+no determinado
+------------------------
+**COMPAÑERO:**
+
+por confirmar
+------------------------
+**CLAN:**
+
+Uzumaki
+------------------------
+**FAMILIA**
+
+**Tía abuela**: Mito Uzumaki
+
+**Padre**:
+- Transliteración del nombre: Takumi Uzumaki 
+- Nombre Japonés:  
     ```
-    自由 渦巻き
+    巧 渦巻き
     ```
+    `巧` - "artesano", "maestro habilidoso", "destreza"
 
-    Donde `自由` significa hacer lo que uno quiere. Siendo el significado de `自` "uno mismo" y `由` significa "causa" o "razón"
+**Madre**:
+- Transliteración del nombre: Kasumi Uzumaki 
+- Nombre Japonés:  
+    ```
+    霞 渦巻き
+    ```
+    `霞` (kasumi) - "niebla", "bruma"
 
-------------------------
-- **APODOS:**
-
-    - Ji: para abreviar su nombre
-
-    sin otros apodos conocidos hasta el momento
-
-------------------------
-- **NACIMIENTO:**
-
-    20/07 -> 20 de Julio
-
-    Signo: Cáncer
-
-------------------------
-- **GENERO:**
-
-    Masculino/Hombre
-------------------------
-- **ESTADO:**
-
-    Vivo, sin entrada al `libro Bingo`[^1]
-
-    Edad: 14 años
+**Hermana**: 
+- Transliteración del nombre: Akari  Uzumaki 
+- Nombre Japonés: 
+    ```
+    灯 渦巻き
+    ```
+    `灯` - "luz", "lámpara", "iluminación"
 
 ------------------------
-- **ALTURA:**
+**NATURALEZA DEL CHAKRA**
 
-    165 cm
-------------------------
-- **PESO:**
+Afinidad pura del cuerpo y el espíritu: Yan
 
-    60 kg
-------------------------
-- **TIPO DE DE GRUPO SANGUINEO:**
+Apto para `chakra` natural: NS/NC
 
-    O+
+- Primera: 
+    Fuuton[^7] - Muy Alta (no tiene ni zorra)
 
-------------------------
-- **KEKKEI GENKAI:**
+- Segunda (No Detectada):
+    Suiton[^8] - Decente
 
-    -No conocidos-
+Resto de naturalezas podrían a llegar a entrenarse paa reducir el gasto de `chakra` en caso de necesitar hacer uso de jutsus de otros elementos.
 
 ------------------------
-- **HABILIDAD ÚNICA:**
+**TÉCNICAS**
 
-    `Sensor`: de alta categoría, sus altas reservas de `chakra`[^2] incluso para su edad y clan lo vuelven uno de los mejores en este campo.
+- Aprendido en la Academia: 
 
-    `Erudito Fuin`: altos conocimientos de `Fuinjutsu`[^3], estando en la primera categoría por un castigo. Un shinobi dedica su vida al engaño y es por ello que solo muestra conocer la teoría inicial.
+    - Bunshin no Jutsu: A extensas de su cantidad de `chakra` no podría ejecutarlo pero debido a su dominio en el control de este mismo logra realizarlos.
+    - Kawarimi no Jutsu
+    - Control básico de `chakra` aprendido en la academia:
+        - Papel en la frente
 
-    `Combatiente`: nato a estilos de combate a mano, sin embargo mantiene la tradición de clan y lucha con un nivel decente en `Kenjutsu`[^4].
+- Aprendido en Clan: 
 
-------------------------
-- **CLASIFICACIÓN/RANGO:**
+    - Control básico de `chakra`, las etapas aprendidas son: 
+        - Escalada de árbol (por su estado de sensor)
+        - Caminar en el agua (por su estado de sensor)
+        - Tinta de `chakra` (nivel básico requerido en el arte de sellado)
 
-    Genin
+    - Sellos de primer nivel Uzumaki
 
-------------------------
-- **AFILIACIÓN:**
+    - Sello ***propio accidental***: `Fuin no Myau` Técnica que se activa cuando agrega `chakra` al sello localizado en **** [censurado para que no lo traten de borrar, no porque este en su "ya sabemos donde"] con el cual afecta tanto a aliados como enemigos haciendo que una proyeccion directa de una voz cualquiera registrada en su memoria reproduzca: myaumyaumyaumyaumyaumyaumyaumyaumyaumyaumyaumyaumyaumyaumyau. Hasta que deje de bombear `chakra`. La cantidad del `chakra` aumenta por personas alrededor siendo detectable cuando comienzan a haber 4 personas o más. Siendo menos personas sirve cruel y vilmente como una broma de muy mal gusto al no detectarse muy fácilmente. (Estoy Considerando colocar un radio de efecto usando como centro la ubicación del sello y no a Ji en si mismo.)
 
-    País de las Olas -> `Uzugakure no Sato`[^5] (Aldea escondida entre los Remolinos)
-
-    País del Fuego -> `Konohagakure no Sato` [^6](Aldea escondida entre las Hojas)
-
-------------------------
-- **EQUIPO:**
-
-    no determinado
-------------------------
-- **COMPAÑERO:**
-
-    por confirmar
-------------------------
-- **CLAN:**
-
-    Uzumaki
-------------------------
-- **FAMILIA**
-
-    **Tía abuela**: Mito Uzumaki
-
-    **Padre**:
-    - Transliteración del nombre: Takumi Uzumaki 
-    - Nombre Japonés:  
-        ```
-        巧 渦巻き
-        ```
-        `巧` - "artesano", "maestro habilidoso", "destreza"
-
-    **Madre**:
-    - Transliteración del nombre: Kasumi Uzumaki 
-    - Nombre Japonés:  
-        ```
-        霞 渦巻き
-        ```
-        `霞` (kasumi) - "niebla", "bruma"
-
-    **Hermana**: 
-    - Transliteración del nombre: Akari  Uzumaki 
-    - Nombre Japonés: 
-        ```
-        灯 渦巻き
-        ```
-        `灯` - "luz", "lámpara", "iluminación"
+- Invocación Familiar: Deseado pero no realizado u obtenido todavia. Como tal quiere un animal que le sirva de compañero, pero no es consciente que existen clanes de animales especializados en el `Ninshū`
 
 ------------------------
-- **NATURALEZA DEL CHAKRA**
-
-    Afinidad pura del cuerpo y el espíritu: Yan
-
-    Apto para `chakra` natural: NS/NC
-
-    - Primera: 
-        Fuuton[^7] - Muy Alta (no tiene ni zorra)
-
-    - Segunda (No Detectada):
-        Suiton[^8] - Decente
-
-    Resto de naturalezas podrían a llegar a entrenarse paa reducir el gasto de `chakra` en caso de necesitar hacer uso de jutsus de otros elementos.
-
-------------------------
-- **TÉCNICAS**
-
-    - Aprendido en la Academia: 
-
-        - Bunshin no Jutsu: A extensas de su cantidad de `chakra` no podría ejecutarlo pero debido a su dominio en el control de este mismo logra realizarlos.
-        - Kawarimi no Jutsu
-        - Control básico de `chakra` aprendido en la academia:
-            - Papel en la frente
-
-    - Aprendido en Clan: 
-
-        - Control básico de `chakra`, las etapas aprendidas son: 
-            - Escalada de árbol (por su estado de sensor)
-            - Caminar en el agua (por su estado de sensor)
-            - Tinta de `chakra` (nivel básico requerido en el arte de sellado)
-
-        - Sellos de primer nivel Uzumaki
-
-    Sello ***propio accidental***: Fuin no Myau - Técnica que se activa cuando agrega `chakra` al sello localizado en **** [censurado para que no lo traten de borrar, no porque este en su "ya sabemos donde"] con el cual afecta tanto a aliados como enemigos haciendo que una proyeccion directa de una voz cualquiera registrada en su memoria reproduzca: myaumyaumyaumyaumyaumyaumyaumyaumyaumyaumyaumyaumyaumyaumyau. Hasta que deje de bombear `chakra`. La cantidad del `chakra` aumenta por personas alrededor siendo detectable cuando comienzan a haber 4 personas o más. Siendo menos personas sirve cruel y vilmente como una broma de muy mal gusto al no detectarse muy fácilmente. (Estoy Considerando colocar un radio de efecto usando como centro la ubicación del sello y no a Ji en si mismo.)
-
-    Invocación Familiar: Deseado pero no realizado u obtenido todavia. Como tal quiere un animal que le sirva de compañero, pero no es consciente que existen clanes de animales especializados en el `Ninshū`
-
-------------------------
-- **HERRAMIENTAS**
+**HERRAMIENTAS**
     
     - Kit de Fuin propio: Focas, pincel de `chakra`, tinta...
     - Pulseras con sellos de almacenamiento: kunais, shurikens, sellos bomba...
