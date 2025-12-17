@@ -1,0 +1,42 @@
+# site settings
+title: Amuzik
+subtitle: Escucha tu música favorita, acompañado de tus amigos.
+email: hecmaror04@gmail.com
+description: Proyecto de fin de ciclo de grado superior de Desarrollo de Aplicaciones Multiplataforma.
+keywords: [amuzik, música, amigos, proyecto, ciclo, grado, superior, DAM, desarrollo, aplicaciones, multiplataforma]
+baseurl: "/amuzik" # the subpath of your site, e.g. /blog
+url: "https://hmarort.github.io"# the base hostname & protocol for your site
+author: "Héctor Martín Ortega"
+github_username:  hmarort
+street_address: Calle de la Tórtola, nº 8
+city: Cádiz
+state: El Puerto de Santa María
+zip_code: 11500
+country: España
+phone: (+34) 640 53 21 85
+
+# homepage tiles
+tiles-source: pages
+tiles-count: 6
+
+socials:
+  GitHub: https://github.com/hmarort
+  GitLab:
+  Google-Plus: 
+  Instagram: https://www.instagram.com/hmarort
+  LinkedIn: 
+  Twitter: 
+  Facebook:
+  Slack:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
