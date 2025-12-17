@@ -31,6 +31,19 @@ markdown: kramdown
 sass:
   style: compressed
 
+# Ejemplo de estructura de navegación
+nav:
+  - title: Inicio
+    url: /
+  - title: Biografía
+    url: /biografia.html
+  - title: Habilidades
+    url: /habilidades.html
+  - title: Familia
+    url: /familia.html
+  - title: README Original
+    url: /README.html
+  
 exclude:
 - "*.gemspec"
 - LICENSE.md
