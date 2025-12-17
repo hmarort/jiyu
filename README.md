@@ -145,10 +145,11 @@
 ------------------------
 - **TÉCNICAS**
 
-    Academia:
-        - Bunshin no Jutsu - A extensas de su cantidad de `chakra` no podría ejecutarlo pero debido a su dominio en el control de este mismo logra realizarlos-
-        - Control básico de `chakra` aprendido en la academia:
-            - Papel en la frente
+    Academia: 
+
+    - Bunshin no Jutsu - A extensas de su cantidad de `chakra` no podría ejecutarlo pero debido a su dominio en el control de este mismo logra realizarlos.
+    - Control básico de `chakra` aprendido en la academia:
+        - Papel en la frente
 
 
     Control básico de `chakra` aprendido en Clan:
