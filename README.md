@@ -145,19 +145,21 @@
 ------------------------
 - **TÉCNICAS**
 
-    Academia: 
+    - Aprendido en la Academia: 
 
-    - Bunshin no Jutsu - A extensas de su cantidad de `chakra` no podría ejecutarlo pero debido a su dominio en el control de este mismo logra realizarlos.
-    - Control básico de `chakra` aprendido en la academia:
-        - Papel en la frente
+        - Bunshin no Jutsu: A extensas de su cantidad de `chakra` no podría ejecutarlo pero debido a su dominio en el control de este mismo logra realizarlos.
+        - Kawarimi no Jutsu
+        - Control básico de `chakra` aprendido en la academia:
+            - Papel en la frente
 
+    - Aprendido en Clan: 
 
-    Control básico de `chakra` aprendido en Clan:
-        Escalada de árbol
-        Caminar en el agua
-        Tinta de `chakra`
+        - Control básico de `chakra`, las etapas aprendidas son: 
+            - Escalada de árbol (por su estado de sensor)
+            - Caminar en el agua (por su estado de sensor)
+            - Tinta de `chakra` (nivel básico requerido en el arte de sellado)
 
-    Sellos de primer nivel Uzumaki(El apartado espacio se empieza a dar en el nivel 7 a finales del tomo)
+        - Sellos de primer nivel Uzumaki
 
     Sello ***propio accidental***: Fuin no Myau - Técnica que se activa cuando agrega `chakra` al sello localizado en **** [censurado para que no lo traten de borrar, no porque este en su "ya sabemos donde"] con el cual afecta tanto a aliados como enemigos haciendo que una proyeccion directa de una voz cualquiera registrada en su memoria reproduzca: myaumyaumyaumyaumyaumyaumyaumyaumyaumyaumyaumyaumyaumyaumyau. Hasta que deje de bombear `chakra`. La cantidad del `chakra` aumenta por personas alrededor siendo detectable cuando comienzan a haber 4 personas o más. Siendo menos personas sirve cruel y vilmente como una broma de muy mal gusto al no detectarse muy fácilmente. (Estoy Considerando colocar un radio de efecto usando como centro la ubicación del sello y no a Ji en si mismo.)
 
